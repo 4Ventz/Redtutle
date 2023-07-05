@@ -1,0 +1,11 @@
+#carouselExampleCaptions .carousel-item img 
+{
+    object-fit: cover;
+    object-position: center;
+    height: 75vh;
+    overflow: hidden;
+}
+
+.jogoDestaque {
+    padding: 15px;
+}
